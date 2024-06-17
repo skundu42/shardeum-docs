@@ -94,7 +94,7 @@ sudo apt install git nodejs npm -y
     - Clone the "json-rpc-server" repository to your server:
 
 ```bash
-git clone https://gitlab.com/shardeum/json-rpc-server.git
+git clone https://github.com/shardeum/json-rpc-server.git
 ```
 
 2.  **Navigate to the Repository Directory**:
