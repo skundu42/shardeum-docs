@@ -202,10 +202,6 @@ module.exports = {
                   label: 'GitHub',
                   to: 'https://github.com/shardeum',
                 },
-                {
-                  label: 'GitLab',
-                  to: 'https://gitlab.com/shardeum',
-                },
               ],
             },
           ],
